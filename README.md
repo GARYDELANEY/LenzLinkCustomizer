@@ -1,4 +1,9 @@
-# LenzLinkCustomizer
+android {
+    ...
+    buildFeatures {
+        viewBinding true
+    }
+}# LenzLinkCustomizer
 
 LenzLinkCustomizer is a modular Android app that allows users to build and preview their own LenzLink smart sunglasses. Choose your frame style, lenses, and future tech modules — all inside an intuitive mobile experience.
 
